@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/go-martini/martini"
+	"github.com/straightdave/martini"
 )
 
 var multipartFormTestCases = []multipartFormTestCase{
